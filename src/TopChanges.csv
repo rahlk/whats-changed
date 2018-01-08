@@ -1,0 +1,15 @@
+Name,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+lucene,amc,loc,rfc,ce,cbo,avg_cc,wmc,npm,lcom,ca,max_cc,cam,lcom3,moa,dit,noc,dam,cbm,mfa,ic
+hibernate,amc,loc,cbo,rfc,ce,wmc,npm,lcom,dit,ca,avg_cc,max_cc,cam,lcom3,moa,cbm,ic,mfa,noc,dam
+jgraph,amc,cam,ce,loc,cbo,rfc,max_cc,avg_cc,ca,npm,wmc,dam,moa,mfa,lcom,ic,cbm,noc,dit,lcom3
+antlr,amc,loc,lcom,rfc,avg_cc,wmc,npm,cbo,ce,ca,cam,max_cc,lcom3,moa,noc,dit,mfa,dam,cbm,ic
+argouml,amc,loc,lcom,rfc,cbo,ce,wmc,npm,cam,avg_cc,ca,max_cc,dit,lcom3,moa,noc,dam,ic,mfa,cbm
+jstock,amc,loc,cbo,dit,rfc,ce,wmc,npm,lcom,avg_cc,ca,max_cc,cam,lcom3,moa,dam,ic,noc,cbm,mfa
+eclipse_SDK,amc,loc,rfc,cam,cbo,ce,moa,lcom,wmc,npm,avg_cc,max_cc,ca,lcom3,dam,noc,dit,mfa,cbm,ic
+ant,amc,loc,rfc,lcom,cbo,ce,wmc,npm,avg_cc,cam,ca,max_cc,dit,mfa,lcom3,moa,ic,cbm,noc,dam
+azureus,loc,amc,rfc,cbo,ce,lcom,avg_cc,npm,wmc,max_cc,cam,ca,moa,lcom3,dam,noc,dit,cbm,mfa,ic
+freecol,loc,amc,rfc,cbo,wmc,ce,npm,lcom,ca,avg_cc,dit,max_cc,cam,moa,lcom3,noc,dam,mfa,cbm,ic
+freemind,amc,rfc,loc,wmc,cbo,npm,lcom,cam,ca,ce,avg_cc,max_cc,moa,lcom3,dam,noc,dit,mfa,cbm,ic
+weka,loc,amc,avg_cc,rfc,cbo,wmc,cam,lcom,lcom3,ca,npm,ce,max_cc,moa,cbm,ic,noc,mfa,dit,dam
+jmeter,amc,loc,rfc,cbo,dit,ce,lcom,wmc,npm,ca,avg_cc,max_cc,cam,lcom3,moa,mfa,ic,dam,noc,cbm
+junit,amc,loc,rfc,ce,lcom,cbo,wmc,npm,dit,cam,ca,avg_cc,max_cc,moa,lcom3,noc,mfa,cbm,dam,ic
