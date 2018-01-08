@@ -7,7 +7,7 @@ Where we list the set of "actionable" attributes. That is, changes usually made 
 ## How the changes were measured?
 
 + For every project, take pairs of releases (v1, v2).
-+ In each release pair, for every [metric](https://github.com/rahlk/whats-changed#metrics, compute if there is statistically significant differences (based on A12 effect size test) between releases. 
++ In each release pair, for every [metric](https://github.com/rahlk/whats-changed#metrics), compute if there is statistically significant differences (based on A12 effect size test) between releases. 
 + Rank the features from most changed to least changed.
 
 #### FAQs
